@@ -1,4 +1,8 @@
 # archivos
  Prueba de archivo
-Archivo
-Artículo
+Cell de estela
+Archivos
+Fotos borrada
+Msj
+WhatsApp
+
